@@ -1,70 +1,45 @@
-# Getting Started with Create React App
+# What is Hacktoberfest?
+Hacktoberfest is an annual month-long celebration of open-source software sponsored by DigitalOcean, GitHub, and other partners. During Hacktoberfest, individuals from around the world are encouraged to contribute to open-source projects by submitting pull requests to eligible repositories.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## How to Participate as a Maintainer
+As a maintainer, you can participate in Hacktoberfest by opening your repository to potential contributors and providing a welcoming and supportive environment for their contributions. Here are some steps to help you get started:
 
-## Available Scripts
+# Getting Started
+## 1. Create a Hacktoberfest Label
+Create a label in your repository named "Hacktoberfest." This label will help contributors identify issues and pull requests that are eligible for Hacktoberfest participation.
 
-In the project directory, you can run:
+## 2. Define Contribution Guidelines
+In your repository's README or CONTRIBUTING.md file, clearly define the contribution guidelines, including:
 
-### `npm start`
+-> The purpose and goals of your project.
+-> How to set up the development environment.
+-> Coding standards and conventions.
+-> Testing requirements.
+-> Any other relevant information to help contributors get started.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 3. Set Up Issue Templates
+Create issue templates to help contributors report bugs, request features, or propose changes. This will make it easier for both maintainers and contributors to communicate effectively.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 4. Mark Issues as Hacktoberfest
+Tag issues that are suitable for Hacktoberfest contributions with the "Hacktoberfest" label you created earlier. These issues should be well-defined and beginner-friendly to encourage new contributors.
 
-### `npm test`
+## 5. Review and Merge Pull Requests
+During Hacktoberfest, actively review and merge pull requests from contributors. Provide feedback when necessary and be patient and supportive, especially with newcomers.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## How to Help Contributors
 
-### `npm run build`
+-> Be Responsive: Respond to questions and comments promptly, especially from first-time contributors.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+-> Offer Guidance: If a contributor's pull request needs improvement, provide constructive feedback and guidance to help them make the necessary changes.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+-> Labeling: Use labels to categorize issues and pull requests (e.g., "beginner-friendly," "needs-review," "help-wanted") to make it easier for contributors to find suitable tasks.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+-> Documentation: Keep your project's documentation up-to-date to help contributors understand your project better.
 
-### `npm run eject`
+## Code of Conduct
+Maintain a welcoming and inclusive environment for all contributors by adhering to a Code of Conduct. Make sure to enforce it consistently to foster a positive and respectful community.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## License
+Specify your project's license in the repository. Open-source projects often use licenses like MIT, Apache, or GPL. Make sure to include a LICENSE file with the appropriate license text.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Thank you for participating in Hacktoberfest and supporting the open-source community! Happy hacking!
